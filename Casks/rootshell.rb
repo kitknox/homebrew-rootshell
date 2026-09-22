@@ -1,6 +1,6 @@
 cask "rootshell" do
-  version "1.0.12,152"
-  sha256 "5b313eb42cbfdb683d6b5ff010c8c670264ee4d8350c2019da9acc332e157165"
+  version "1.0.12,153"
+  sha256 "c5ae82c384c3d75c1610f21028e6e0cda0f8109b8e7a812b69cf9ad848f94ce9"
 
   url "https://www.rootshell.com/downloads/rootshell-macos-#{version.before_comma}-#{version.after_comma}.tar.xz"
   name "rootshell"
